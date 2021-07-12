@@ -1,4 +1,5 @@
-# psr
+# maven-project
+
 
 Simple Maven Project
 
